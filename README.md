@@ -3,4 +3,4 @@ Does your firewall block Discord's voice, video chat and sharing? Do you want to
 
 You also need to add your server's ip to the list.
 
-Be careful, the GUI freezes if you try typing it. Edit the list with a text editor and paste.
+Be careful, the Windows GUI freezes if you try typing it. Edit the list with a text editor and paste.
