@@ -1,2 +1,6 @@
 # wireguard-discord
- Subnets to be routed with Wireguard to make Discord work
+Does your firewall block Discord's voice, video chat and sharing? Do you want to use WireGuard, but you do not want to route all the traffic? This is for you! Just replace your AllowedIPs in the config with the contents of the file discord.txt.
+
+You also need to add your server's ip to the list.
+
+Be careful, the GUI freezes if you try typing it. Edit the list with a text editor and paste.
